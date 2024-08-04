@@ -30,6 +30,7 @@ This project analyzes Ed Sheeran's YouTube channel using the YouTube Data API. T
 - Plotted bar charts showing the comparison of different metrics of Top Singers
 - Created bar charts to show the best and worst-performing videos based on view count.
 - Monthly distribution of Videos according to release date.
+- Trends of Likes and View of different videos through of the years.
 
 ## 📌 Conclusions
 This analysis provides insights into Taylor Swift's YouTube channel performance, helping to understand viewer engagement and video popularity trends.
