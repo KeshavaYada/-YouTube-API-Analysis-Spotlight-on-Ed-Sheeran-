@@ -33,6 +33,6 @@ This project analyzes Ed Sheeran's YouTube channel using the YouTube Data API. T
 - Trends of Likes and View of different videos through of the years.
 
 ## 📌 Conclusions
-This analysis provides insights into Taylor Swift's YouTube channel performance, helping to understand viewer engagement and video popularity trends.
+This analysis provides insights into Ed Sheeran's YouTube channel performance, helping to understand viewer engagement and video popularity trends.
 
 
