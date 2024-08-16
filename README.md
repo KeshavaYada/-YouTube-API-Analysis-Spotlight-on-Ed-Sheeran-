@@ -11,6 +11,9 @@ This project analyzes Ed Sheeran's YouTube channel using the YouTube Data API. T
   - Seaborn ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
   - Scikit-learn ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+### 🗂️ Data Collection
+The data was gathered using the YouTube Data API, leveraging Python to pull statistics on subscribers,views, likes, comments, and video uploads for five popular singers. This allowed for a comprehensive analysis of their YouTube presence and performance.
+
 ### 🔄 Data Pre-Processing
 - Cleaning the data (handling missing values, duplicates, etc.)
 - Transforming data for analysis
@@ -76,7 +79,7 @@ This project analyzes Ed Sheeran's YouTube channel using the YouTube Data API. T
 - Following 2017, there is a notable decline, though smaller peaks in subsequent years suggest continued, albeit reduced, engagement from his audience.
 
 ### 📈 Data Visualization
-- Creating meaningful visualizations to represent data insights Using Matplotlib and Seaborn for plotting
+- Created meaningful visualizations to represent data insights Using Matplotlib and Seaborn for plotting
 - Plotted bar charts showing the comparison of different metrics of Top Singers
 - Created bar charts to show the best and worst-performing videos based on view count.
 - Monthly distribution of Videos according to release date.
