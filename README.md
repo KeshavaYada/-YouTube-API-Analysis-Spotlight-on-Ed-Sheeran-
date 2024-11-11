@@ -22,6 +22,7 @@ The data was gathered using the YouTube Data API, leveraging Python to pull stat
 - Analyzing the distribution of key variables
 - Identifying trends and patterns
 - Visualizing data using various plots (histograms, bar charts, scatter plots, etc.)
+
 ## 📝 Summary of Analysis
 ### 1. Subscriber Count Analysis
 - **Taylor Swift** has the highest subscriber count among the five singers, indicating a broad and dedicated fan base.
